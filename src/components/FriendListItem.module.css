@@ -1,0 +1,24 @@
+
+.friend-list-item {
+    margin: 10px;
+    text-align: center;
+    flex: 1;
+    border: 1px solid #ddd;
+}
+
+.friendAvatar {
+    width: 80px;
+    height: 80px;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
+
+.friendName {
+    color: black;
+}
